@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729240163 source:c:\users\hp\documents\informatique\c++\td\td3\exercice 3\main.cpp
+	<queue>
+	<stack>
+	<cctype>
+	<string>
+	<iostream>
+
